@@ -3,3 +3,11 @@ products_df.csv
 sociodemographic_df.csv
 clean_data.csv
 feature_eng_data.csv
+clusters.csv
+cf_item_similarity.parquet.gzip
+cf_item_similarity_ah.parquet.gzip
+cf_user_similarity.parquet.gzip
+cf_user_similarity_ah.parquet.gzip
+clusters_v2.csv
+cf_user_similarity_c.parquet.gzip
+cf_item_similarity_c.parquet.gzip
