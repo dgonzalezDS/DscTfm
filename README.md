@@ -12,4 +12,4 @@ Los cuadernos principales son:
 -df_targetCuentas --> Se aplica el modelado a la familia de productos de "Cuentas"
 -df_targetFinanciacion --> Se aplica el modelado a la familia de productos de "Financiacion"
 
-En el documento en PDF se detallan todos el proceso llevado a cabo en este trabajo.
+En el documento en PDF "TFM" se detallan todos el proceso llevado a cabo en este trabajo.
